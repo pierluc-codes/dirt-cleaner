@@ -1,0 +1,16 @@
+
+# Compile files
+*/target
+
+# SBT files
+*/project/target
+*/project/boot
+*/project/plugins/target/*
+*/project/plugins/project/target
+
+# IntelliJ files
+*.idea
+*/.idea_modules
+
+# Vim files
+*.swp
